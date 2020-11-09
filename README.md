@@ -1,6 +1,6 @@
-# statdojo
+# stat-dojo
 
-Series of blog posts on simple explanations of statistical concepts supplemented with simulations on Python.
+Series of blog posts with simple explanations of statistical concepts supplemented with simulations on Python.
 
 1. Design of experiment basics: if you build them, they will come
 
